@@ -13,8 +13,9 @@ slutt nicolay
 3
 4
 slutt astrid
-1
-2
-3
-4
+1|                    |
+2        _____
+3|       |   |        |
+4   ~~~~~|   | ~~~~~
+5========i   i========|
 slutt erling
