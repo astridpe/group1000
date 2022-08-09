@@ -19,11 +19,11 @@ slutt shæn
     /                                \
 >>>>>>> eb750718bcc59bfcf2d922b22ff78c42d1c6e87b
 slutt nicolay
-u- - - - - - - - - - - - - - - * * *u
-2
-3
-4
-slutt astrid
+  u- - - - - - - - - - - - - - - * * *u
+  |                                   |
+  |                                   |
+  |                                   |
+  |                                   |
 1
 2
 3
